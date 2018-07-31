@@ -15,5 +15,5 @@ Vue.component('left-bottom',{
 			count:0
 		}
 	},
-	template:'<div class="panel-group" id="accordion"><div class="panel panel-heading"><h4 class="panel-title"><a href="C:/musican/index-wide.html">回到主页</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="myselfInfo/profile.html">我的信息</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="index-wide.html">乐队主页</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="index-wide.html">寻找演出</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="index-wide.html">论坛交流</a></h4></div></div>'
+	template:'<div class="panel-group" id="accordion"><div class="panel panel-heading"><h4 class="panel-title"><a href="C:/musican/index-wide.html">回到主页</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="C:/musican/myselfInfo/profile.html">我的信息</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="index-wide.html">乐队主页</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="index-wide.html">寻找演出</a></h4></div><div class="panel panel-heading"><h4 class="panel-title"><a href="index-wide.html">论坛交流</a></h4></div></div>'
 })
